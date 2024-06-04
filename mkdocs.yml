@@ -1,0 +1,13 @@
+site_name: PyPAM
+
+theme:
+  name: "readthedocs"
+
+plugins:
+  - mkdocstrings
+
+nav:
+  - index.md
+  - usage.md
+  - reference.md
+  - explanation.md
