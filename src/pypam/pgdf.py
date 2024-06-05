@@ -151,7 +151,7 @@ class PGDF:
                         raise NotImplementedError
 
                     # Now see if there are any binary annotations on PAMData
-                    len_anno = PAM_data.read_annotations(dat, ds)
+                    # len_anno = PAM_data.read_annotations(dat, ds)
                     # ds += len_anno
 
                     ds = PAM_data._next_obj

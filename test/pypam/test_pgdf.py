@@ -2,7 +2,6 @@
 
 from pypam.pgdf import PGDF 
 import os
-from PIL import Image
 
 
 def test_glf():

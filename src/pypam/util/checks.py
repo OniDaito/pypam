@@ -8,7 +8,7 @@ __author__ = "Benjamin Blundell <bjb8@st-andrews.ac.uk>"
 
 def is_float(v):
     try:
-        f = float(v)
+        _ = float(v)
     except ValueError:
         return False
     return True

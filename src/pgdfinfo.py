@@ -4,8 +4,6 @@ Example usage:
 """
 
 import os
-import sys
-import math
 from pypam.pgdf import PGDF
 
 
