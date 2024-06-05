@@ -1,6 +1,8 @@
 # PyPAM
 
-A python interface to [PAMGuard](https://www.pamguard.org/).
+A python interface to [PAMGuard](https://www.pamguard.org/), covering the Gemini AAM module. 
+
+Documentation is available at [https://onidaito.github.io/pypam](https://onidaito.github.io/pypam)
 
 ## Installation
 
@@ -30,9 +32,9 @@ Once installed, you can begin to read PAMGuard pgdf files as follows:
 
 The documentation can be generated using mkdocs as follows:
 
-    mkdocs serve
+    mkdocs build
 
-Open a browser window at 127.0.0.1:8000. Documentation will be uploaded to github in the future.
+Documentation is available at [https://onidaito.github.io/pypam](https://onidaito.github.io/pypam)
 
 ## Tests
 In order to run the various tests you will need the test data files, which are held in a separate repository - [https://gitlab.st-andrews.ac.uk/biology/smru/bjb8/pypam_testdata](https://gitlab.st-andrews.ac.uk/biology/smru/bjb8/pypam_testdata). These are a few megabytes in size.
