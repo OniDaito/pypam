@@ -52,13 +52,5 @@ With the submodule updated, run the following from the pypam directory:
 ## Support
 For support, please email Benjamin Blundell - bjb8@st-andrews.ac.uk
 
-## Roadmap
-
-- Complete support for all data types and modules that PAMGuard supports.
-- Improved documentation and test coverage.
-
-## Authors
-Benjamin Blundell
-
 ## Licence
 Licenced under the GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007
