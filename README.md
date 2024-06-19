@@ -37,13 +37,7 @@ The documentation can be generated using mkdocs as follows:
 Documentation is available at [https://onidaito.github.io/pypam](https://onidaito.github.io/pypam)
 
 ## Tests
-In order to run the various tests you will need the test data files, which are held in a separate repository - [https://gitlab.st-andrews.ac.uk/biology/smru/bjb8/pypam_testdata](https://gitlab.st-andrews.ac.uk/biology/smru/bjb8/pypam_testdata). These are a few megabytes in size.
-
-You will need to install the git lfs extension for large data files first. Follow the instructions at [https://git-lfs.com/](https://git-lfs.com/).
-
-To download these into an existing pypam directory, use git as follows:
-
-    git submodule update --init --recursive
+In order to run the various tests you will need the test data files, which are held in a separate repository - [https://github.com/OniDaito/pypam_testdata](https://github.com/OniDaito/pypam_testdata).
 
 With the submodule updated, run the following from the pypam directory:
 

@@ -1,3 +1,0 @@
-[submodule "pypam_testdata"]
-	path = pypam_testdata
-	url = git@gitlab.st-andrews.ac.uk:biology/smru/bjb8/pypam_testdata.git
